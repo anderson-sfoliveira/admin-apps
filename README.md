@@ -1,5 +1,5 @@
 <h1 align="center">
-  Library API
+  Admin apps
 </h1>
 
 [![Heroku Deployment](https://github.com/anderson-sfoliveira/admin-apps/actions/workflows/deployment.yml/badge.svg)](https://github.com/anderson-sfoliveira/admin-apps/actions/workflows/deployment.yml)
@@ -18,14 +18,11 @@ Tabela de conteúdos
 
 
 ## 💻 Sobre o projeto
-**[URL da API](https://admin-apps.herokuapp.com/applications)**
-Desenvolvido durante o curso **Design de API's RestFul com Spring Boot, TDD e o novo JUnit5** oferecido pela [Udemy](https://www.udemy.com/course/design-de-apis-restful-com-tdd-spring-boot-e-junit-5/).
 
-Esta API realiza o controle de uma biblioteca.
-Utilizamos o Spring Boot Starter Actuator para monitorar as informações e status da aplicação.
+Esta API foi configurada com [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin), que fornece uma interface administrativa para aplicativos Spring Boot.
 
-A biblioteca Spring Boot Admin foi utilizada para fazer a integração com a aplicação [admin-apps](https://github.com/anderson-sfoliveira/admin-apps) que criamos para fornecer uma interface administrativa para monitorar aplicativos Spring Boot.
-Neste outro aplicativo são demonstradas as informações coletadas pelo Spring Boot Starter Actuator.
+
+Clique [aqui](https://admin-apps.herokuapp.com/applications) para acessar a API.
 
 ## 🚀 Como executar o projeto
 
